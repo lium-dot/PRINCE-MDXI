@@ -10,7 +10,7 @@ global.session = "https://session-id-2fza.onrender.com";
  
  
 module.exports = {
-SESSION_ID: process.env.SESSION_ID || "PRINCE-MDX~ZVFUUjVdyMNrO6wc6jJv", // Add sess Id here espwcially when deploying on panels else use app.json and .env file...
+SESSION_ID: process.env.SESSION_ID || "PRINCE-MDX~ghrHF335kygQM92hzgnB", // Add sess Id here espwcially when deploying on panels else use app.json and .env file...
 SUDO_NUMBERS: process.env.SUDO_NUMBERS || "254758443111", //Add multiple Numbers with Country Codes without (+) Separated by Comma...
 ANTI_DELETE: process.env.ANTI_DELETE || "inboxonly", // can be set to inboxonly/allchats/true/false
 AUTO_READ_STATUS: process.env.AUTO_READ_STATUS || "false",
@@ -23,7 +23,7 @@ OWNER_NUMBER: process.env.OWNER_NUMBER || "254758443111", // Only 1 owner Number
 OWNER_NAME: process.env.OWNER_NAME || "★Ꭿ☼︎ℒ☼︎ℒ✩ℰ✫ℕ♫", // Input Yours custom...(Maintain font for Flow)
 PACK_AUTHOR: process.env.PACK_AUTHOR || "★Ꭿ☼︎ℒ☼︎ℒ✩ℰ✫ℕ♫", // Added // Input Yours custom...
 PACK_NAME: process.env.PACK_NAME || "ᴘσωєʀє∂ ву ★Ꭿ☼︎ℒ☼︎ℒ✩ℰ✫ℕ♫", // Added // Input Yours custom...
-PREFIX: process.env.PREFIX || ".",
+PREFIX: process.env.PREFIX || "+",
 VERSION: process.env.VERSION || "3.0.0",
 ANTILINK: process.env.ANTILINK || "false", //  Enter true to kick automatically or delete to delete without kicking or warn to warn before kicking
 ANTICALL: process.env.ANTICALL || "true",
@@ -42,7 +42,7 @@ GOODBYE: process.env.GOODBYE || "false",
 AUTO_READ_MESSAGES: process.env.AUTO_READ_MESSAGES || "false", // Enter value to true for blueticking all messages, or commands for blueticking only commands else false
 AUTO_BLOCK: process.env.AUTO_BLOCK || "", // Add Multiple Country Codes Separated by Comma...
 PRESENCE: process.env.PRESENCE || "typing", // Choose one: typing, recording, online, null
-TIME_ZONE: process.env.TIME_ZONE || "", // Enter yours else leave blank if not sure
+TIME_ZONE: process.env.TIME_ZONE || "Africa,Nairobi", // Enter yours else leave blank if not sure
 };
 
 let file = require.resolve(__filename); 
