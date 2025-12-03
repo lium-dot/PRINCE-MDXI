@@ -40,7 +40,7 @@ module.exports = {
     AUTO_BIO : process.env.AUTO_BIO || 'false',
     AUTO_BLOCK: process.env.AUTO_BLOCK || '212,233',
     YT: process.env.YT || 'youtube.com/@princetechn11',
-    NEWSLETTER_JID: process.env.NEWSLETTER_JID || '120363408839929349@newsletter',
+    NEWSLETTER_JID: process.env.NEWSLETTER_JID || '120363322606369079@newsletter', //dont change
     NEWSLETTER_URL: process.env.NEWSLETTER_URL || 'https://whatsapp.com/channel/0029Vakd0RY35fLr1MUiwO3O',
     BOT_REPO: process.env.BOT_REPO || 'Mayelprince/PRINCE-MDXI',
     PACK_NAME: process.env.PACK_NAME || '𝐏𝐑𝐈𝐍𝐂𝐄 𝐌𝐃𝐗',
