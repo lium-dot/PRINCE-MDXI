@@ -67,21 +67,20 @@ DONT FORGET TO FORK 🍴 & STAR 🌟 REPO😇
 
 ---
 
-### <h4 align="">1. HEROKU</h4>
-<p style="text-align: center; font-size: 1.2em;">
-
-
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://deployment-h4bs.onrender.com)
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-
-
-
-### <h4 align="">2. PRINCE HOST FREE</h4>
+### <h4 align="">1. PRINCE HOST FREE</h4>
 <p style="text-align: center; font-size: 1.2em;">
   
 <p align="">
 <a href='https://host.princetechn.com' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-PrinceHost ‎Deploy-6971FF?style=for-the-badge&logo=Github&logoColor=white'/< width=150 height=28/p></a>
   <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+  
+### <h4 align="">2. HEROKU</h4>
+<p style="text-align: center; font-size: 1.2em;">
+
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://deployment-h4bs.onrender.com)
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
   ### <h4 align="">3. KOYEB</h4>
