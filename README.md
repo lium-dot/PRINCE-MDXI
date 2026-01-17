@@ -2,7 +2,7 @@
 
 
   <p align="center">
-<a href="https://github.com/Mayelprince?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/itx-alii-raza?color=blue&style=flat-square"></a>
+<a href="https://github.com/Mayelprince?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/Mayelprince?color=blue&style=flat-square"></a>
 <a href="https://github.com/Mayelprince/PRINCE-MDXI/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Mayelprince/PRINCE-MDXI?color=blue&style=flat-square"></a>
 <a href="https://github.com/Mayelprince/PRINCE-MDXI/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Mayelprince/PRINCE-MDXI?color=blue&style=flat-square"></a>
 <a href="https://github.com/Mayelprince/PRINCE-MDXI/"><img title="Size" src="https://img.shields.io/github/repo-size/Mayelprince/PRINCE-MDXI?style=flat-square&color=green"></a>
